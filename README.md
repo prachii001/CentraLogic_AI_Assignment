@@ -18,7 +18,7 @@ This project provides a web-based application for transcribing and summarizing a
 1. Start the FastAPI backend:
 <pre>
   
-python backend.py
+python fastapi.py
   
 </pre>
 
