@@ -15,6 +15,6 @@ This project provides a web-based application for transcribing and summarizing a
 - Hugging Face Transformers: A library of state-of-the-art pre-trained models for Natural Language Processing tasks.
 
 # Running the Application
-1. Start the FastAPI backend
-   python backend.py
+1. Start the FastAPI backend:
+python backend.py
 
