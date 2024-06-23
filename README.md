@@ -24,6 +24,6 @@ python backend.py
 
 2. Start the Streamlit frontend:
 <pre>
-  streamlit run app.py
+streamlit run app.py
 </pre>
 
